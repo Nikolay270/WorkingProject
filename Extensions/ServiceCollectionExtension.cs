@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using ProjectSoftUni.Data;
+using WorkingProject.Data;
 
 namespace Microsoft.Extensions.DependencyInjection
 {
